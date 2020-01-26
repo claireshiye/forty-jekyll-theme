@@ -1,17 +1,20 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
-author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
+title: Claire S. Ye
+#subtitle: by HTML5 UP
+email: shiye2015@u.northwestern.edu
+description: Ph.D. Student, <br /> 
+Center for Interdisciplinary Exploration and Research in Astrophysics (CIERA), <br />
+Department of Physics and Astronomy, <br /> 
+Northwestern University
+#baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+url: https://claireshiye.github.io # the base hostname & protocol for your site
+author: Claire Ye
+street_address: 1800 Sherman Avenue
+city: Evanston
+state: IL
+zip_code: 60208
 country: United States of America
-phone: (716) 555-5555
+phone: (847) 868-4381
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -20,14 +23,14 @@ tiles-count: 6
 # social settings
 500px_url:
 facebook_url:
-github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+github_url:  
+gitlab_url: 
+googleplus_url: 
+instagram_url: 
+linkedin_url: 
 pinterest_url:
-slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+slack_url: 
+twitter_url: 
 
 # build settings
 markdown: kramdown
