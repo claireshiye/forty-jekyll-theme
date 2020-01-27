@@ -3,7 +3,7 @@ layout: home
 title: Home
 landing-title: 'Claire S. Ye'
 description: null
-image: Ye_2019.jpg
+image: assets/images/Ye_2019.jpg
 author: Claire Ye
 show_tile: false
 ---
